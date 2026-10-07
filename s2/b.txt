@@ -1,1 +1,2 @@
 s2 b line1
+s2 b line2
