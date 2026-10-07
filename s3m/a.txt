@@ -1,0 +1,2 @@
+s3m a line1
+s3m a line2
